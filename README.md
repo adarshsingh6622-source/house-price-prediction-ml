@@ -2,6 +2,15 @@
 
 This project predicts house prices using Machine Learning and a Streamlit web application.
 
+## Live Demo
+
+Live Demo
+
+🔗 House Price Prediction App
+https://house-price-prediction-adarsh.streamlit.app
+
+This application predicts house prices using a machine learning model based on features such as living area, bedrooms, and bathrooms.
+
 ## Project Overview
 The model is trained on housing data using feature engineering and machine learning algorithms.  
 A Streamlit interface allows users to input house features and receive real-time price predictions.
